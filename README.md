@@ -39,7 +39,7 @@ Saya seorang pengembang aplikasi berbasis web dengan 2+ tahun pengalaman menggun
 <br />
 
 ---
-### Connect with me:
+### Kontak:
 
 [![website](./img/github-dark.svg)](https://github.com/farozy)
 &nbsp;&nbsp;
