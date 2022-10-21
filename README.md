@@ -1,5 +1,8 @@
 # Hai, Saya Fakhrur Rozi👋
 
+## Tentang Saya:
+Saya seorang pengembang aplikasi berbasis web dengan 2+ tahun pengalaman menggunakan PHP untuk mengembangkan, menguji, mengamati aplikasi yang telah dibuat.
+
 ## Pendidikan:
 
 #### 1. [Universitas Nurul Jadid] (https://www.nuruljadid.net/) | Teknik Informatika | Probolinggo `2014-2018`
@@ -38,7 +41,7 @@
 ---
 ### Connect with me:
 
-[![website](./img/linkedin-dark.svg)](https://web.facebook.com/farozy99)
+[![website](./img/github-dark.svg)](https://github.com/farozy)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/fa_rozyie/)
 
