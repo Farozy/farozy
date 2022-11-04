@@ -8,6 +8,9 @@ Saya seorang pengembang aplikasi berbasis web dengan 2+ tahun pengalaman menggun
 #### 1. [Universitas Nurul Jadid] (https://www.nuruljadid.net/) | Teknik Informatika | Probolinggo `2014-2018`
 #### 2. [MA YTI Nguling] | IPS | Pasuruan `2010-2013`
 
+## Project yang sudah dibuat:
+1. Apliasi E-Arsip
+
 ## Skill:
 #### 1. PHP: Hypertext Preprocessor
    - Codeigniter 4
@@ -22,9 +25,6 @@ Saya seorang pengembang aplikasi berbasis web dengan 2+ tahun pengalaman menggun
    - Excel
    - Power Point
 ---
-
-## Project yang sudah dibuat:
-
 
 ### Bahasa Pemrograman:
 
