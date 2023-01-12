@@ -33,6 +33,9 @@ Saya seorang pengembang aplikasi berbasis web dengan 2+ tahun pengalaman menggun
    - Word
    - Excel
    - Power Point
+### 5. Troubleshooting & Maintaining
+   - PC
+   - Laptop
 ---
 
 ### Bahasa Pemrograman:
