@@ -9,12 +9,16 @@ Saya seorang pengembang aplikasi berbasis web dengan 2+ tahun pengalaman menggun
 #### 2. [MA YTI Nguling] | IPS | Pasuruan `2010-2013`
 
 ## Project yang sudah dibuat:
-1. Aplikasi Siakad (Sekolah)
-2. Apliasi E-Arsip
-3. Aplikasi Siakad Pesantren
-4. Aplikasi Point of Sales (Kasir)
-5. Aplikasi Payroll (Penggajian)
-6. Aplikasi Simpan Pinjam (Koperasi)
+
+0. Apliakasi Apotek (Proses)
+1. Aplikasi Restoran
+2. Aplikasi Pesantren (Absensi & Perijinan)
+3. Aplikasi simpan pinjam (Koperasi)
+4. Aplikasi Payroll(Penggajian)
+5. Aplikasi Sekolah(Siakad)
+6. Apliasi Pesantren( $iakad)
+7. Aplikasi E-Arsip
+8. Aplikasi Point of Sales (Kasir) V.05
 
 ## Skill:
 #### 1. PHP: Hypertext Preprocessor
