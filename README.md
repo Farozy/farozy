@@ -44,11 +44,11 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 [<img align="left" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="api" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][api]
 [<img align="left" alt="Javascript" width="30px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" style="padding-right:10px;" />][javascript]
-[<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][jquery]
-[<img align="left" alt="Excel" width="30px" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-0.png" style="padding-right:10px;" />][bootstrap]
-[<img align="left" alt="Excel" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/powerpoint-1411853-1194342.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
+[<img align="left" alt="Bootstrap" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][bootstrap]
+[<img align="left" alt="Word" width="30px" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-0.png" style="padding-right:10px;" />][microsoft]
+[<img align="left" alt="Excel" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" style="padding-right:10px;" />][microsoft]
+[<img align="left" alt="Power Point" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/powerpoint-1411853-1194342.png" style="padding-right:10px;" />][microsoft]
 
 <br />
 <br />
@@ -68,3 +68,4 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 [javascript]: https://www.javascript.com/
 [jquery]: https://jquery.com/
 [bootstrap]: https://getbootstrap.com/docs/5.2/getting-started/introduction/
+[microsoft]: https://www.microsoft.com/id-id
