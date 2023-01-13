@@ -60,12 +60,10 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/fa_rozyie/)
 
-
-
 [codeigniter]: https://codeigniter.com/
 [mysql]: https://www.mysql.com/
 [api]: https://aws.amazon.com/id/what-is/api/
 [javascript]: https://www.javascript.com/
 [jquery]: https://jquery.com/
-[bootstrap]: https://getbootstrap.com/docs/5.2/getting-started/introduction/
+[bootstrap]: https://getbootstrap.com/
 [microsoft]: https://www.microsoft.com/id-id
