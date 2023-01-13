@@ -41,8 +41,8 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 ### Bahasa Pemrograman:
 
 [<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" style="padding-right:10px;" />][codeigniter]
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][jquery]
-[<img align="left" alt="Pycharm" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="JQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][jquery]
+[<img align="left" alt="MySql" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="Pycharm" width="30px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][webdev]
@@ -64,3 +64,5 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 [codeigniter]: https://codeigniter.com/
 [jquery]: https://jquery.com/
+[mysql]: https://www.mysql.com/
+[api]: https://aws.amazon.com/id/what-is/api/
