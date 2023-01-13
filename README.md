@@ -7,6 +7,7 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 #### 1. [Universitas Nurul Jadid] (https://www.nuruljadid.net/) | Teknik Informatika | Probolinggo `2014-2018`
 #### 2. [MA YTI Nguling] | IPS | Pasuruan `2010-2013`
+#### 3. [SMPN 1 Nguling] | Pasuruan `2007-2010`
 
 ## Project yang sudah dibuat:
 
