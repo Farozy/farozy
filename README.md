@@ -10,7 +10,7 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 ## Project yang sudah dibuat:
 
-1. Apliakasi Apotek
+1. Aplikasi Apotek
 2. Aplikasi Restoran
 3. Aplikasi Pesantren (Absensi & Perijinan)
 4. Aplikasi simpan pinjam (Koperasi)
