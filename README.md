@@ -22,13 +22,13 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 ## Skill:
 #### 1. PHP: Hypertext Preprocessor
-   - Codeigniter 4
+   - Codeigniter
    - Database (MySQL)
    - Application Programming Interface (API)
 #### 2. Javascript
    - Jquery
 #### 3. HTML dan CSS
-   - Bootstrap 4 & 5
+   - Bootstrap
 #### 4. Microsoft Office
    - Word
    - Excel
