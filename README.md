@@ -40,7 +40,7 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 ### Bahasa Pemrograman:
 
-[<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" style="padding-right:10px;" />][https://codeigniter.com/]
+[<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Pycharm" width="30px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" style="padding-right:10px;" />][webdev]
@@ -62,4 +62,4 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://codeigniter.com/
