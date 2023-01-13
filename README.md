@@ -16,7 +16,7 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 4. Aplikasi simpan pinjam (Koperasi)
 5. Aplikasi Payroll(Penggajian)
 6. Aplikasi Sekolah(Siakad)
-7. Apliasi Pesantren( $iakad)
+7. Aplikasi Pesantren( $iakad)
 8. Aplikasi E-Arsip
 9. Aplikasi Point of Sales (Kasir) V.05
 
