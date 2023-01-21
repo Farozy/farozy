@@ -12,14 +12,15 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 ## Project yang sudah dibuat:
 
 1. Aplikasi Apotek
-2. Aplikasi Restoran
-3. Aplikasi Pesantren (Absensi & Perijinan)
-4. Aplikasi simpan pinjam (Koperasi)
-5. Aplikasi Payroll(Penggajian)
-6. Aplikasi Sekolah(Siakad)
-7. Aplikasi Pesantren( $iakad)
-8. Aplikasi E-Arsip
-9. Aplikasi Point of Sales (Kasir) V.05
+2. Aplikasi Point of Sales (Kasir) V.1
+3. Aplikasi Restoran
+4. Aplikasi Pesantren (Absensi & Perijinan)
+5. Aplikasi Simpan Pinjam / Pinjam (Koperasi V.1 dan V.2)
+6. Aplikasi Payroll(Penggajian)
+7. Aplikasi Sekolah(Siakad)
+8. Aplikasi Pesantren(Siakad)
+9. Aplikasi E-Arsip
+10. Aplikasi Point of Sales (Kasir) V.05
 
 ## Skill:
 #### 1. PHP: Hypertext Preprocessor
