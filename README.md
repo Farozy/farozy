@@ -21,6 +21,10 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 8. Aplikasi Pesantren(Siakad)
 9. Aplikasi E-Arsip
 
+## Pengalaman Organisasi
+September 2016 -  September 2018
+Departemen Intelektual (HIMATIKA)
+
 ## Skill:
 #### 1. PHP: Hypertext Preprocessor
    - Codeigniter
