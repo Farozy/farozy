@@ -9,6 +9,10 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 #### 2. [MA YTI Nguling] | IPS | Pasuruan `2010-2013`
 #### 3. [SMPN 1 Nguling] | Pasuruan `2007-2010`
 
+## Pengalaman Organisasi
+September 2016 -  September 2018
+Departemen Intelektual (HIMATIKA)
+
 ## Project yang sudah dibuat:
 
 1. Aplikasi Apotek
@@ -20,10 +24,6 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 7. Aplikasi Sekolah(Siakad)
 8. Aplikasi Pesantren(Siakad)
 9. Aplikasi E-Arsip
-
-## Pengalaman Organisasi
-September 2016 -  September 2018
-Departemen Intelektual (HIMATIKA)
 
 ## Skill:
 #### 1. PHP: Hypertext Preprocessor
