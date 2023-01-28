@@ -11,7 +11,7 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 ## Pengalaman Organisasi
 September 2016 -  September 2018
-#### Departemen Intelektual (HIMATIKA)
+Departemen Intelektual (HIMATIKA)
 
 ## Project yang sudah dibuat:
 
@@ -26,19 +26,19 @@ September 2016 -  September 2018
 9. Aplikasi E-Arsip
 
 ## Skill:
-#### 1. PHP: Hypertext Preprocessor
+1. PHP: Hypertext Preprocessor
    - Codeigniter
    - Database (MySQL)
    - Application Programming Interface (API)
-#### 2. Javascript
+2. Javascript
    - Jquery
-#### 3. HTML dan CSS
+3. HTML dan CSS
    - Bootstrap
-#### 4. Microsoft Office
+4. Microsoft Office
    - Word
    - Excel
    - Power Point
-### 5. Troubleshooting & Maintaining
+5. Troubleshooting & Maintaining
    - PC
    - Laptop
 ---
