@@ -11,6 +11,7 @@ Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan P
 
 ## Pengalaman Organisasi
 September 2016 -  September 2018
+<br />
 Departemen Intelektual (HIMATIKA)
 
 ## Project yang sudah dibuat:
