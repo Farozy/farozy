@@ -16,25 +16,30 @@ Departemen Intelektual (HIMATIKA)
 
 ## Project yang sudah dibuat:
 
-1. Aplikasi Apotek
-2. Aplikasi Point of Sales (Kasir V.05 & V.1)
-3. Aplikasi Restoran
-4. Aplikasi Pesantren (Absensi & Perijinan)
-5. Aplikasi Simpan Pinjam / Pinjam (Koperasi V.1 dan V.2)
-6. Aplikasi Payroll(Penggajian)
-7. Aplikasi Sekolah(Siakad)
-8. Aplikasi Pesantren(Siakad)
-9. Aplikasi E-Arsip
+1. Aplikasi Sistem Informasi Sekolah (Laravel)
+2. Apliaski Perpustakaan (Laravel)
+3. Aplikasi Inventory Barang (Laravel)
+4. Aplikasi Apotek (Codeigniter)
+5. Aplikasi Point of Sales (CodeIgniter)
+6. Aplikasi Restoran (CodeIgniter)
+7. Aplikasi Pesantren (Absensi & Perijinan) (CodeIgniter)
+8. Aplikasi Simpan Pinjam / Pinjam (CodeIgniter)
+9. Aplikasi Payroll(Penggajian) (CodeIgniter)
+10. Aplikasi Pesantren(Siakad) (CodeIgniter)
+11. Aplikasi E-Arsip (CodeIgniter)
 
 ## Skill:
 1. PHP: Hypertext Preprocessor
+   - Laravel
    - Codeigniter
    - Database (MySQL)
    - Application Programming Interface (API)
 2. Javascript
    - Jquery
+   - Vue JS
 3. HTML dan CSS
    - Bootstrap
+   - Tailwind CSS
 4. Microsoft Office
    - Word
    - Excel
