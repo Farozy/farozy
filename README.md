@@ -52,12 +52,12 @@ Departemen Intelektual (HIMATIKA)
 ### Bahasa Pemrograman:
 
 [<img align="left" alt="Python" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png?f=webp&w=256" style="padding-right:10px;" />][Laravel]
-[<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" style="padding-right:10px;" />][codeigniter]
-[<img align="left" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][mysql]
-[<img align="left" alt="api" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][api]
-[<img align="left" alt="Javascript" width="30px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" style="padding-right:10px;" />][javascript]
+[<img align="left" alt="Python" width="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" style="padding-right:10px;" />][Codeigniter]
+[<img align="left" alt="MySql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][MySQL]
+[<img align="left" alt="api" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][API]
+[<img align="left" alt="Javascript" width="30px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" style="padding-right:10px;" />][Javascript]
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
-[<img align="left" alt="Bootstrap" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][Bootstrap]
 [<img align="left" alt="Word" width="30px" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-0.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Excel" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Power Point" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/powerpoint-1411853-1194342.png" style="padding-right:10px;" />][microsoft]
