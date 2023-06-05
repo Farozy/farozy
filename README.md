@@ -70,7 +70,7 @@ Departemen Intelektual (HIMATIKA)
 
 [![website](./img/github-dark.svg)](https://github.com/farozy)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/fa_rozyie/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/farozyie/)
 
 [laravel]: https://laravel.com/
 [codeigniter]: https://codeigniter.com/
