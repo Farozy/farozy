@@ -60,7 +60,7 @@ Departemen Intelektual (HIMATIKA)
 [<img align="left" alt="Bootstrap" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Word" width="30px" src="./img/word_logo.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Excel" width="30px" src="./img/excel_logo.png" style="padding-right:10px;" />][microsoft]
-[<img align="left" alt="Power Point" width="30px" src="./img/powerpoilnt_logo.png" style="padding-right:10px;" />][microsoft]
+[<img align="left" alt="Power Point" width="30px" src="./img/powerpoint_logo.png" style="padding-right:10px;" />][microsoft]
 
 <br />
 <br />
