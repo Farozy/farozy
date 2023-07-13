@@ -1,7 +1,7 @@
 # Hai, Saya Fakhrur Rozi👋
 
 ## Tentang Saya:
-Saya seorang programmer / developer web dengan 3+ tahun pengalaman menggunakan PHP untuk membuat, membangun, mengembangkan aplikasi / website.
+Saya seorang Fullstack / Developer Web dengan 3+ tahun pengalaman menggunakan PHP untuk membuat, membangun, mengembangkan aplikasi / website.
 
 ## Pendidikan:
 
