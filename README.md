@@ -36,7 +36,7 @@ Departemen Intelektual (HIMATIKA)
    - Application Programming Interface (API)
 2. Javascript
    - Jquery
-   - Vue JS
+   - React JS
 3. HTML dan CSS
    - Bootstrap
    - Tailwind CSS
