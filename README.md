@@ -57,7 +57,7 @@ Departemen Intelektual (HIMATIKA)
 [<img align="left" alt="api" width="30px" src="./img/api_logo.png" style="padding-right:10px;" />][API]
 [<img align="left" alt="Javascript" width="30px" src="./img/javascript_logo.png" style="padding-right:10px;" />][javascript]
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
-[<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap.png" style="padding-right:10px;" />][bootstrap]
+[<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Word" width="30px" src="./img/word_logo.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Excel" width="30px" src="./img/excel_logo.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Power Point" width="30px" src="./img/powerpoint_logo.png" style="padding-right:10px;" />][microsoft]
