@@ -58,9 +58,9 @@ Departemen Intelektual (HIMATIKA)
 [<img align="left" alt="Javascript" width="30px" src="./img/javascript_logo.png" style="padding-right:10px;" />][javascript]
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
 [<img align="left" alt="Bootstrap" width="30px" src="https://www.pinclipart.com/picdir/big/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" style="padding-right:10px;" />][bootstrap]
-[<img align="left" alt="Word" width="30px" src="https://logodownload.org/wp-content/uploads/2018/10/word-logo-0.png" style="padding-right:10px;" />][microsoft]
-[<img align="left" alt="Excel" width="30px" src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0.png" style="padding-right:10px;" />][microsoft]
-[<img align="left" alt="Power Point" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/powerpoint-1411853-1194342.png" style="padding-right:10px;" />][microsoft]
+[<img align="left" alt="Word" width="30px" src="./img/word.png" style="padding-right:10px;" />][microsoft]
+[<img align="left" alt="Excel" width="30px" src="./img/excel.png" style="padding-right:10px;" />][microsoft]
+[<img align="left" alt="Power Point" width="30px" src="./img/powerpoilnt.png" style="padding-right:10px;" />][microsoft]
 
 <br />
 <br />
