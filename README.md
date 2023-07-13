@@ -53,7 +53,7 @@ Departemen Intelektual (HIMATIKA)
 
 [<img align="left" alt="Python" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][Laravel]
 [<img align="left" alt="Python" width="30px" src="./img/codeigniter_logo.png" style="padding-right:10px;" />][codeigniter]
-[<img align="left" alt="MySql" width="30px" src="./mysql_logo.png" style="padding-right:10px;" />][mysql]
+[<img align="left" alt="MySql" width="30px" src="./img/mysql_logo.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="api" width="30px" src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" style="padding-right:10px;" />][API]
 [<img align="left" alt="Javascript" width="30px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" style="padding-right:10px;" />][javascript]
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
