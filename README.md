@@ -51,7 +51,7 @@ Departemen Intelektual (HIMATIKA)
 
 ### Bahasa Pemrograman:
 
-[<img align="left" alt="Python" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][Laravel]
+[<img align="left" alt="Python" width="30px" src="./img/laravel_logo.png" style="padding-right:10px;" />][Laravel]
 [<img align="left" alt="Python" width="30px" src="./img/codeigniter_logo.png" style="padding-right:10px;" />][codeigniter]
 [<img align="left" alt="MySql" width="30px" src="./img/mysql_logo.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="api" width="30px" src="./img/api_logo.png" style="padding-right:10px;" />][API]
