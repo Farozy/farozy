@@ -23,6 +23,7 @@ Departemen Intelektual (HIMATIKA)
 2. Javascript
    - Jquery
    - React JS
+   - Next JS
    - Node JS
 3. HTML dan CSS
    - Bootstrap
