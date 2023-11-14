@@ -14,20 +14,6 @@ September 2016 -  September 2018
 <br />
 Departemen Intelektual (HIMATIKA)
 
-## Project yang sudah dibuat:
-
-1. Aplikasi Sistem Informasi Sekolah (Laravel)
-2. Apliaski Perpustakaan (Laravel)
-3. Aplikasi Inventory Barang (Laravel)
-4. Aplikasi Apotek (Codeigniter)
-5. Aplikasi Point of Sales (CodeIgniter)
-6. Aplikasi Restoran (CodeIgniter)
-7. Aplikasi Pesantren (Absensi & Perijinan) (CodeIgniter)
-8. Aplikasi Simpan Pinjam / Pinjam (CodeIgniter)
-9. Aplikasi Payroll(Penggajian) (CodeIgniter)
-10. Aplikasi Pesantren(Siakad) (CodeIgniter)
-11. Aplikasi E-Arsip (CodeIgniter)
-
 ## Skill:
 1. PHP: Hypertext Preprocessor
    - Laravel
