@@ -45,6 +45,8 @@ Departemen Intelektual (HIMATIKA)
 [<img align="left" alt="api" width="30px" src="./img/api_logo.png" style="padding-right:10px;" />][API]
 [<img align="left" alt="Javascript" width="30px" src="./img/javascript_logo.png" style="padding-right:10px;" />][javascript]
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
+[<img align="left" alt="api" width="30px" src="./img/reactjs.png" style="padding-right:10px;" />][reactjs]
+[<img align="left" alt="api" width="30px" src="./img/next.png" style="padding-right:10px;" />][nextjs]
 [<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Word" width="30px" src="./img/word_logo.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Excel" width="30px" src="./img/excel_logo.png" style="padding-right:10px;" />][microsoft]
@@ -60,11 +62,13 @@ Departemen Intelektual (HIMATIKA)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/farozyie/)
 
-[laravel]: https://laravel.com/
-[codeigniter]: https://codeigniter.com/
-[mysql]: https://www.mysql.com/
-[api]: https://aws.amazon.com/id/what-is/api/
-[javascript]: https://www.javascript.com/
-[jquery]: https://jquery.com/
-[bootstrap]: https://getbootstrap.com/
+[laravel]: https://laravel.com
+[codeigniter]: https://codeigniter.com
+[mysql]: https://www.mysql.com
+[api]: https://aws.amazon.com/id/what-is/api
+[javascript]: https://www.javascript.com
+[jquery]: https://jquery.com
+[reactjs]: https://react.dev
+[nextjs]: https://nextjs.org
+[bootstrap]: https://getbootstrap.com
 [microsoft]: https://www.microsoft.com/id-id
