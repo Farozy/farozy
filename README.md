@@ -41,15 +41,19 @@ Departemen Intelektual (HIMATIKA)
 
 ### Bahasa Pemrograman:
 
-[<img align="left" alt="Python" width="30px" src="./img/laravel_logo.png" style="padding-right:10px;" />][Laravel]
-[<img align="left" alt="Python" width="30px" src="./img/codeigniter_logo.png" style="padding-right:10px;" />][codeigniter]
+[<img align="left" alt="HTML" width="30px" src="./img/html.png" style="padding-right:10px;" />][html]
+[<img align="left" alt="CSS" width="30px" src="./img/css.png" style="padding-right:10px;" />][css]
+[<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][bootstrap]
+[<img align="left" alt="Tailwindcss" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][tailwindcsc]
+[<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
+[<img align="left" alt="reactjs" width="30px" src="./img/reactjs.png" style="padding-right:10px;" />][reactjs]
+[<img align="left" alt="nextjs" width="30px" src="./img/next_js.png" style="padding-right:10px;" />][nextjs]
+[<img align="left" alt="Codeigniter" width="30px" src="./img/codeigniter_logo.png" style="padding-right:10px;" />][codeigniter]
+[<img align="left" alt="Laravel" width="30px" src="./img/laravel_logo.png" style="padding-right:10px;" />][Laravel]
+[<img align="left" alt="Nodejs" width="30px" src="./img/nodejs" style="padding-right:10px;" />][nodejs]
 [<img align="left" alt="MySql" width="30px" src="./img/mysql_logo.png" style="padding-right:10px;" />][mysql]
 [<img align="left" alt="api" width="30px" src="./img/api_logo.png" style="padding-right:10px;" />][API]
 [<img align="left" alt="Javascript" width="30px" src="./img/javascript_logo.png" style="padding-right:10px;" />][javascript]
-[<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
-[<img align="left" alt="api" width="30px" src="./img/reactjs.png" style="padding-right:10px;" />][reactjs]
-[<img align="left" alt="api" width="30px" src="./img/nextjs.png" style="padding-right:10px;" />][nextjs]
-[<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][bootstrap]
 [<img align="left" alt="Word" width="30px" src="./img/word_logo.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Excel" width="30px" src="./img/excel_logo.png" style="padding-right:10px;" />][microsoft]
 [<img align="left" alt="Power Point" width="30px" src="./img/powerpoint_logo.png" style="padding-right:10px;" />][microsoft]
@@ -64,13 +68,17 @@ Departemen Intelektual (HIMATIKA)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/farozyie/)
 
-[laravel]: https://laravel.com
-[codeigniter]: https://codeigniter.com
-[mysql]: https://www.mysql.com
-[api]: https://aws.amazon.com/id/what-is/api
+[html]: https://www.w3schools.com/html
+[css]: https://www.w3schools.com/css
+[bootstrap]: https://getbootstrap.com
+[tailwindcss]: https://tailwindcss.com
 [javascript]: https://www.javascript.com
 [jquery]: https://jquery.com
 [reactjs]: https://react.dev
 [nextjs]: https://nextjs.org
-[bootstrap]: https://getbootstrap.com
+[laravel]: https://laravel.com
+[codeigniter]: https://codeigniter.com
+[nodejs]: https://nodejs.org/en
+[mysql]: https://www.mysql.com
+[api]: https://aws.amazon.com/id/what-is/api
 [microsoft]: https://www.microsoft.com/id-id
