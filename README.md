@@ -15,7 +15,7 @@ September 2016 -  September 2018
 Departemen Intelektual (HIMATIKA)
 
 ## Skill:
-Frontend
+1. Frontend
    - HTML / CSS
    - Bootstrap
    - Tailwind CSS
@@ -23,18 +23,18 @@ Frontend
    - Jquery
    - React JS
    - Next JS
-Backend
+2. Backend
    - PHP
    - CodeIgniter
    - Laravel
    - Node JS
    - Database (MySQL)
    - Application Programming Interface (API)
-4. Microsoft Office
+3. Microsoft Office
    - Word
    - Excel
    - Power Point
-5. Troubleshooting & Maintaining
+4. Troubleshooting & Maintaining
    - PC
    - Laptop
 ---
