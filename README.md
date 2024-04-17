@@ -41,10 +41,10 @@ Departemen Intelektual (HIMATIKA)
 
 ### Bahasa Pemrograman:
 
-[<img align="left" alt="HTML" width="30px" src="./img/html.png" style="padding-right:10px;" />][html]
+[<img align="left" alt="HTML" width="30px" height="30px" src="./img/html.png" style="padding-right:10px;" />][html]
 [<img align="left" alt="CSS" width="30px" src="./img/css.png" style="padding-right:10px;" />][css]
 [<img align="left" alt="Bootstrap" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][bootstrap]
-[<img align="left" alt="Tailwindcss" width="30px" src="./img/bootstrap_logo.png" style="padding-right:10px;" />][tailwindcsc]
+[<img align="left" alt="Tailwindcss" width="30px" src="./img/tailwindcss.png" style="padding-right:10px;" />][tailwindcss]
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
 [<img align="left" alt="reactjs" width="30px" src="./img/reactjs.png" style="padding-right:10px;" />][reactjs]
 [<img align="left" alt="nextjs" width="30px" src="./img/next_js.png" style="padding-right:10px;" />][nextjs]
