@@ -15,19 +15,21 @@ September 2016 -  September 2018
 Departemen Intelektual (HIMATIKA)
 
 ## Skill:
-1. PHP: Hypertext Preprocessor
-   - Laravel
-   - Codeigniter
-   - Database (MySQL)
-   - Application Programming Interface (API)
-2. Javascript
+Frontend
+   - HTML / CSS
+   - Bootstrap
+   - Tailwind CSS
+   - Javascript
    - Jquery
    - React JS
    - Next JS
+Backend
+   - PHP
+   - CodeIgniter
+   - Laravel
    - Node JS
-3. HTML dan CSS
-   - Bootstrap
-   - Tailwind CSS
+   - Database (MySQL)
+   - Application Programming Interface (API)
 4. Microsoft Office
    - Word
    - Excel
