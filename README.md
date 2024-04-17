@@ -49,6 +49,7 @@ Departemen Intelektual (HIMATIKA)
 [<img align="left" alt="JQuery" width="30px" src="https://logodix.com/logo/941120.png" style="padding-right:10px;" />][jquery]
 [<img align="left" alt="reactjs" width="30px" src="./img/reactjs.png" style="padding-right:10px;" />][reactjs]
 [<img align="left" alt="nextjs" width="30px" src="./img/next_js.png" style="padding-right:10px;" />][nextjs]
+[<img align="left" alt="PHP" width="30px" src="./img/php.png" style="padding-right:10px;" />][php]
 [<img align="left" alt="Codeigniter" width="30px" src="./img/codeigniter_logo.png" style="padding-right:10px;" />][codeigniter]
 [<img align="left" alt="Laravel" width="30px" src="./img/laravel_logo.png" style="padding-right:10px;" />][Laravel]
 [<img align="left" alt="Nodejs" width="30px" src="./img/nodejs.png" style="padding-right:10px;" />][nodejs]
@@ -76,6 +77,7 @@ Departemen Intelektual (HIMATIKA)
 [jquery]: https://jquery.com
 [reactjs]: https://react.dev
 [nextjs]: https://nextjs.org
+[php]: https://www.php.net
 [laravel]: https://laravel.com
 [codeigniter]: https://codeigniter.com
 [nodejs]: https://nodejs.org/en
